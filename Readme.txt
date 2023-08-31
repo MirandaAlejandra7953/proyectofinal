@@ -3,8 +3,7 @@ Thanks for downloading this template!
 Template Name: MyResume
 Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
 alice
-miranda
------------
+hjgjkhjk
 123456
 Author: BootstrapMade.com
 Alejandra Miranda
