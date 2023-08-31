@@ -7,4 +7,5 @@ miranda
 -----------
 123456
 Author: BootstrapMade.com
+Alejandra Miranda
 License: https://bootstrapmade.com/license/
